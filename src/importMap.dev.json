@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "@zenloop/react-app": "http://localhost:3001/spa.js"
+    }
+}

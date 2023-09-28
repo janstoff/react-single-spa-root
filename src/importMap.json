@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "@zenloop/react-app": "http://path-to-deployed-js/spa.js"
+    }
+}
